@@ -1,7 +1,6 @@
-# Vancouver Asahi
+# Sidney Loggers
 
-Summary 
-
+1923 through 1925 Prairie Pacific Champions
 
 # Records
 
