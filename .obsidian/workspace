@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "seasons/1925.md",
+                    "file": "seasons/1927.md",
                     "mode": "source",
                     "source": false
                   }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "teams/SID.md",
+                    "file": "players/Dwayne Wright.md",
                     "mode": "source",
                     "source": false
                   }
@@ -46,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seasons/1926.md",
+                "file": "seasons/1929.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "seasons/1926.md",
+                "file": "seasons/1929.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,14 +130,14 @@
   "active": "c55bdcf6f6fbc894",
   "lastOpenFiles": [
     "seasons/template.md",
-    "seasons/1926.md",
-    "seasons/1925.md",
-    "seasons/1924.md",
-    "seasons/1923.md",
-    "seasons/1922.md",
+    "seasons/1928.md",
+    "seasons/1927.md",
     "seasons/1921.md",
-    "teams/SID.md",
-    "teams/VCR.md",
-    "teams/index.md"
+    "players/Dwayne Wright.md",
+    "players/Borja Muñoz.md",
+    "seasons/1922.md",
+    "seasons/1923.md",
+    "seasons/1925.md",
+    "seasons/1926.md"
   ]
 }

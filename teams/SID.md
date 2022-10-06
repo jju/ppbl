@@ -1,16 +1,19 @@
 # Sidney Loggers
 
-1923 through 1925 Prairie Pacific Champions
+The Loggers have been consistently top-tier in the PPL's early seasons, claiming 5 pennants and 4 titles in the league's first 7 years.
 
 # Records
 
 
 | Season | Division | DivRank | LeagueRank | Team | Team | Rating | GP | W | L | Win% | RS | RA | pW-L | RDiff | Hits | Pennant | Champion |
 |------|---------|---|-----|-------|-----|-----|-----|-----|-------|-----|-----|-------|------|--|---|---|---|
-| 1921 | Pacific | 1 | 1 | VCR | Vancouver Asahi | 101.5 | 154 | 118 | 36 | 0.7662337662 | 799 | 498 | 0.703736011 | 301 |  | 1 | 1
-| 1922 | Pacific | 3 | 5 | VCR | Vancouver Asahi | 102.1 | 154 | 78 | 76 | 0.5064935065 | 428 | 409 | 0.5207622324 | 19 |  |  | 
-| 1923 | Pacific | 3 | 6 | VCR | Vancouver Asahi | 106 | 154 | 56 | 98 | 0.3636363636 | 389 | 516 | 0.3735481083 | -127 | 1205 |  | 
-| 1924 | Pacific | 3 | 5 | VCR | Vancouver Asahi | 114.4 | 154 | 60 | 94 | 0.3896103896 | 418 | 559 | 0.3700686038 | -141 | 1191 |  | 
+| 1921 | Pacific | 3 | 5 | SID | Sidney Loggers | 42 | 154 | 57 | 97 | 0.3701298701 | 634 | 777 | 0.4080080205 | -143 |  |  | 
+| 1922 | Pacific | 1 | 1 | SID | Sidney Loggers | 129.4 | 161 | 114 | 47 | 0.7080745342 | 549 | 371 | 0.6719836099 | 178 |  | 1 | 
+| 1923 | Pacific | 1 | 1 | SID | Sidney Loggers | 147.9 | 159 | 120 | 39 | 0.7547169811 | 578 | 377 | 0.6861134734 | 201 | 1405 | 1 | 1
+| 1924 | Pacific | 1 | 1 | SID | Sidney Loggers | 154.7 | 161 | 128 | 33 | 0.7950310559 | 798 | 463 | 0.730314387 | 335 | 1610 | 1 | 1
+| 1925 | Pacific | 1 | 1 | SID | Sidney Loggers | 169.2 | 158 | 120 | 38 | 0.7594936709 | 726 | 483 | 0.6782598083 | 243 | 1460 | 1 | 1
+| 1926 | Pacific | 1 | 1 | SID | Sidney Loggers | 179.3 | 159 | 124 | 35 | 0.7798742138 | 729 | 436 | 0.719236514 | 293 | 1528 | 1 | 1
+| 1927 | Pacific | 2 | 2 | SID | Sidney Loggers | 172.8 | 154 | 106 | 48 | 0.6883116883 | 683 | 441 | 0.6900885842 | 242 | 1486 |  | 
 
 
 
@@ -18,7 +21,11 @@
 
 | Season | Prize |
 |--------|----------|
-| 1921 | Prairie Pacific Champions |
+| 1922 | Pacific Pennant |
+| 1923 | Prairie Pacific Champions |
+| 1924 | Prairie Pacific Champions |
+| 1925 | Prairie Pacific Champions |
+| 1926 | Prairie Pacific Champions |
  
 
 # History
