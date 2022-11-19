@@ -12,45 +12,76 @@
             "type": "split",
             "children": [
               {
-                "id": "969da03510e69299",
-                "type": "leaf",
+                "id": "385ae57b860baedc",
+                "type": "tabs",
                 "dimension": 44.294871794871796,
+                "children": [
+                  {
+                    "id": "969da03510e69299",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "seasons/1929.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "f2cf8b84dd699b2e",
+                "type": "tabs",
+                "dimension": 55.705128205128204,
+                "children": [
+                  {
+                    "id": "11349979249b747a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "seasons/1931.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "9822e4e7bca19689",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea267a9462b048dd",
+                "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "seasons/1929.md",
+                    "file": "seasons/template.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "11349979249b747a",
+                "id": "d40a62d36585f0a3",
                 "type": "leaf",
-                "dimension": 55.705128205128204,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "teams/VCR.md",
+                    "file": "seasons/1932.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "direction": "vertical"
-          },
-          {
-            "id": "c55bdcf6f6fbc894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "seasons/1930.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -71,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -109,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teams/VCR.md",
+                "file": "seasons/1932.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11349979249b747a",
+  "active": "d40a62d36585f0a3",
   "lastOpenFiles": [
-    "seasons/1929.md",
-    "seasons/1928.md",
-    "teams/VCR.md",
-    "seasons/1927.md",
-    "teams/LLO.md",
-    "players/Dwayne Wright.md",
+    "seasons/1931.md",
     "seasons/1930.md",
+    "seasons/1932.md",
     "seasons/template.md",
+    "seasons/1926.md",
+    "players/Ricky Peck.md",
+    "1921.md",
     "seasons/1921.md",
-    "players/Borja Muñoz.md"
+    "players/_pitcher-template.md",
+    "players/_position-template.md"
   ]
 }

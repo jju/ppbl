@@ -15,6 +15,9 @@ Summary
 | 1925 | Prairie | 3 | 7 | LLO | Lloydminster Giants | 114.4 | 154 | 61 | 93 | 0.3961038961 | 412 | 511 | 0.4027346399 | -99 | 1164 |  | 
 | 1926 | Prairie | 2 | 6 | LLO | Lloydminster Giants | 129.6 | 154 | 61 | 93 | 0.3961038961 | 471 | 560 | 0.4214719021 | -89 | 1305 |  | 
 | 1927 | Prairie | 2 | 5 | LLO | Lloydminster Giants | 146.4 | 154 | 73 | 81 | 0.474025974 | 458 | 515 | 0.4465414035 | -57 | 1251 |  | 
+| 1928 | Prairie | 2 | 6 | LLO | Lloydminster Giants | 153.2 | 154 | 73 | 81 | 0.474025974 | 475 | 522 | 0.4569405274 | -47 | 1204 |  | 
+| 1929 | Prairie | 2 | 5 | LLO | Lloydminster Giants | 158.4 | 154 | 81 | 73 | 0.525974026 | 463 | 426 | 0.5380305315 | 37 | 1247 |  | 
+
 
 
 
@@ -22,7 +25,7 @@ Summary
 
 | Season | Prize |
 |--------|----------|
-| 1921 | Prairie Pacific Champions |
+
  
 
 # History
@@ -45,7 +48,7 @@ Summary
 
 ## Management
 
-
+In the aftermath of 1929's economic difficulties Lloydminster's ownership questioned why they were paying players the most in the league and still had no real results. They commenced a massive spree of unbalanced trades in the offseason.
 
 ## Fans
 
