@@ -1,4 +1,4 @@
-
+Montero has been around the PPL since the beginning and after 13 years he won his first championship in 1933
 
 ## Pitching Stats
 

@@ -1,4 +1,4 @@
-
+Has a pitcher ever had a worse playoff series than Takahiro Tsuchiya did in 1932? By the end of it, yes. But that was due in great part to the trust his manager Jakob Friesen placed in him after he lost two games in a row to the Saints. Then in 1933 when the Pioneers returned to the PPC against the Saints, Tsuchiya was again responsible for the team's first two losses (in game 3 he only pitched to one batter with the bases loaded and promptly gave up a walk-off double). He had a good appearance in the final game of the series, which put to rest any personal responsibility issues that season.
 
 ## Pitching Stats
 
@@ -13,4 +13,4 @@
 
 Highlight [[seasons]] with awards or championships or other notable achievements.
 
-[[teams]] [[position]]
+[[FV]][[RP]]

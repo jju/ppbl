@@ -1,4 +1,4 @@
-
+Won Rookie of the Year and pitched in the Championship in 1932 but was sent down to indie ball for 1933. He became very disgruntled.
 
 ## Pitching Stats
 

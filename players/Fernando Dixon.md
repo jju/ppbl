@@ -1,4 +1,4 @@
-
+First pitcher to 200 Wins (1932 total 205). Also had the most Innings Pitched to the end of 1932 (2867.1), and was 8th in number of Games Started. In 1933 he didn't allow a single home run.
 
 ## Pitching Stats
 
