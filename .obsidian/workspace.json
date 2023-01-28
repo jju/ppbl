@@ -22,7 +22,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "seasons/1933.md",
+                        "file": "seasons/1926.md",
                         "mode": "source",
                         "source": false
                       }
@@ -255,15 +255,15 @@
   },
   "active": "805354110d420d49",
   "lastOpenFiles": [
-    "seasons/1933.md",
-    "seasons/1934.md",
     "seasons/1926.md",
+    "seasons/1922.md",
+    "seasons/1923.md",
+    "games/1924-PPC-04-thesteal.md",
+    "seasons/1934.md",
+    "seasons/1933.md",
     "seasons/template.md",
     "players/Raul Montero.md",
     "players/_pitcher-template.md",
-    "players/Vasco Bustos Rosado.md",
-    "teams/KOO.md",
-    "players/Borja Muñoz.md",
-    "teams/FV.md"
+    "players/Vasco Bustos Rosado.md"
   ]
 }
