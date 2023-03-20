@@ -21,6 +21,7 @@ After a terrible first season the Grizzlies have been very good, but it took unt
 | 1931 | Pacific | 4 | 4 | KOO | Kootenay Grizzlies | 158.7 | 154 | 75 | 79 | 0.487012987 | 522 | 500 | 0.5196895294 | 22 | 1529 |  | 
 | 1932 | Pacific | 3 | 4 | KOO | Kootenay Grizzlies | 158.4 | 154 | 70 | 84 | 0.4545454545 | 518 | 539 | 0.4818268086 | -21 | 1632 |  | 
 | 1933 | Pacific | 4 | 6 | KOO | Kootenay Grizzlies | 156.4 | 154 | 72 | 82 | 0.4675324675 | 500 | 532 | 0.4716492505 | -32 | 1482 |  | 
+| 1934 | Pacific | 4 | 6 | KOO | Kootenay Grizzlies | 153.2 | 154 | 71 | 83 | 0.461038961 | 522 | 549 | 0.4769442463 | -27 | 1644 |  | 
 
 [1]: The Loggers and Grizzlies ended the season with a tied record and played a 155th game for the Pacific Pennant and the chance to face the Winnipeg Union for the championship. The Grizzlies lost the game 5-0.
 

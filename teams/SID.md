@@ -1,6 +1,6 @@
 # Sidney Loggers
 
-The Loggers have been consistently top-tier in the PPL's early seasons, claiming 5 pennants and 4 titles in the league's first 7 years.
+The Loggers have been consistently top-tier in the PPL, claiming 5 pennants and 4 titles in the league's first 7 years. In fact apart from their very first season they've always been in the top 3 teams. They have a history of great playoff performances because of that consistent record. As of 1934, all three of the PPL Championships that went to 7 games involved the Loggers (they've won 2 of them).
 
 # Records
 
@@ -14,7 +14,13 @@ The Loggers have been consistently top-tier in the PPL's early seasons, claiming
 | 1925 | Pacific | 1 | 1 | SID | Sidney Loggers | 169.2 | 158 | 120 | 38 | 0.7594936709 | 726 | 483 | 0.6782598083 | 243 | 1460 | 1 | 1
 | 1926 | Pacific | 1 | 1 | SID | Sidney Loggers | 179.3 | 159 | 124 | 35 | 0.7798742138 | 729 | 436 | 0.719236514 | 293 | 1528 | 1 | 1
 | 1927 | Pacific | 2 | 2 | SID | Sidney Loggers | 172.8 | 154 | 106 | 48 | 0.6883116883 | 683 | 441 | 0.6900885842 | 242 | 1486 |  | 
-
+| 1928 | Pacific | 2 | 2 | SID | Sidney Loggers | 172.8 | 154 | 98 | 56 | 0.6363636364 | 577 | 482 | 0.5815680259 | 95 | 1313 |  |  | 
+| 1929 | Pacific | 2 | 2 | SID | Sidney Loggers | 172.5 | 154 | 98 | 56 | 0.6363636364 | 620 | 442 | 0.650056953 | 178 | 1362 |  |  | 
+| 1930 | Pacific | 2 | 2 | SID | Sidney Loggers | 176.7 | 154 | 89 | 65 | 0.5779220779 | 576 | 473 | 0.589169321 | 103 | 1669 |  |  | 
+| 1931 | Pacific | 1 | 1 | SID | Sidney Loggers | 181 | 158 | 110 | 48 | 0.6962025316 | 587 | 437 | 0.631816529 | 150 | 1734 | 1 | 1 | 4-0
+| 1932 | Pacific | 2 | 3 | SID | Sidney Loggers | 167.2 | 154 | 85 | 69 | 0.5519480519 | 515 | 480 | 0.5321547765 | 35 | 1617 |  |  | 
+| 1933 | Pacific | 3 | 2 | SID | Sidney Loggers | 160.2 | 154 | 88 | 66 | 0.5714285714 | 503 | 459 | 0.5417818694 | 44 | 1598 |  |  | 
+| 1934 | Pacific | 1 | 1 | SID | Sidney Loggers | 166.8 | 161 | 107 | 54 | 0.6645962733 | 654 | 461 | 0.6547462347 | | 193 | 1790 | 1 | 1 | 4-3
 
 
 ## Prizes
@@ -26,6 +32,8 @@ The Loggers have been consistently top-tier in the PPL's early seasons, claiming
 | 1924 | Prairie Pacific Champions |
 | 1925 | Prairie Pacific Champions |
 | 1926 | Prairie Pacific Champions |
+| 1931 | Prairie Pacific Champions |
+| 1934 | Prairie Pacific Champions |
  
 
 # History

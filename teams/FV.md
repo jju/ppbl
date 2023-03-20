@@ -1,7 +1,6 @@
 # Fraser Valley Pioneers
 
-Summary 
-
+The Pioneers spent their early seasons trying to compete against the dominant Loggers. After ten years things started to come together and they became a winning team. Generally that has been their main goal, being competitive.
 
 # Records
 
@@ -21,6 +20,7 @@ Summary
 | 1931 | Pacific | 3 | 3 | FV | Fraser Valley Pioneers | 175.5 | 154 | 90 | 64 | 0.5844155844 | 474 | 406 | 0.5703754442 | 68 | 1567 |  | 
 | 1932 | Pacific | 1 | 2 | FV | Fraser Valley Pioneers | 179.4 | 160 | 99 | 61 | 0.61875 | 530 | 413 | 0.6121730637 | 117 | 1624 | 1 | 1
 | 1933 | Pacific | 1 | 1 | FV | Fraser Valley Pioneers | 180.5 | 159 | 114 | 45 | 0.7169811321 | 689 | 468 | 0.6699136517 | 221 | 1717 | 1 | 
+| 1934 | Pacific | 2 | 2 | FV | Fraser Valley Pioneers | 171.1 | 154 | 100 | 54 | 0.6493506494 | 654 | 435 | 0.6783508368 | 219 | 1701 |  | 
 
 
 
