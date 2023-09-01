@@ -52,7 +52,7 @@ The Pioneers spent their early seasons trying to compete against the dominant Lo
 
 ## Management
 
-
+As of 1936: Jakob Friesen
 
 ## Fans
 

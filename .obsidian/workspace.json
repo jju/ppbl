@@ -22,7 +22,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "seasons/1929.md",
+                        "file": "seasons/1935.md",
                         "mode": "source",
                         "source": false
                       }
@@ -36,67 +36,18 @@
                 "dimension": 50.19035532994924,
                 "children": [
                   {
-                    "id": "ab0148fb9f440a49",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "players/Borja Muñoz.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "15b407f9438264a6",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "players/Takahiro Tsuchiya.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "5a247e7cb6cb59be",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "players/Dylan Hayes.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
                     "id": "c5797624db2a225c",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "players/Nawel Hayden.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "9c5857a8d8ee2ba6",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "players/Takahiro Tsuchiya.md",
+                        "file": "teams/VCR.md",
                         "mode": "source",
                         "source": false
                       }
                     }
                   }
-                ],
-                "currentTab": 3
+                ]
               }
             ],
             "direction": "vertical"
@@ -159,7 +110,19 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "seasons/1935.md",
+                    "file": "seasons/1936.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "17d8027037976062",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "seasons/1936.md",
                     "mode": "source",
                     "source": false
                   }
@@ -178,7 +141,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           }
         ],
         "direction": "horizontal"
@@ -218,6 +181,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f12311673d0510a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -239,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "seasons/1935.md",
+                "file": "seasons/1936.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,17 +237,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "15e870bfbacc917f",
+  "active": "17d8027037976062",
   "lastOpenFiles": [
-    "seasons/1929.md",
     "seasons/1935.md",
+    "seasons/1922.md",
+    "seasons/1936.md",
+    "seasons/1921.md",
+    "players/Takahiro Tsuchiya.md",
+    "teams/VCR.md",
     "players/Nawel Hayden.md",
+    "teams/FV.md",
+    "seasons/1929.md",
+    "seasons/template.md",
     "teams/WPG.md",
     "seasons/1930.md",
     "seasons/1931.md",
     "seasons/1932.md",
     "seasons/1933.md",
-    "seasons/1934.md",
-    "seasons/template.md"
+    "seasons/1934.md"
   ]
 }
